@@ -1,0 +1,4 @@
+ignore:
+  - "Dots/fastlane/*.swift"
+  - "Dots/Gemfile"
+  - "Dots/Gemfile.lock"
